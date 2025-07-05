@@ -26,4 +26,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: Pratibha-24/testforactions:latest
+        tags: Pratibha010/testforactions:latest
